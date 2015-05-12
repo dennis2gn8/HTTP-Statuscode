@@ -3,12 +3,9 @@
 
 # Welcome
 
-##  
-
-
-
 ####Was ist ein HTTP-Statuscode ?
-Geht bei einen Server eine Anfrage für eine Website ein, beispielsweise wenn ein Nutzer über einen Browser auf eine Webseite zugreift will, gibt der Server auf die Anfrage einen Http-Statuscode zurück. Dieser Statuscode enthält Informationen über den Status der Anfrage. 
+
+Geht bei einem Server eine Anfrage für eine Website ein, beispielsweise wenn ein Nutzer über einen Browser auf eine Webseite zugreift will, gibt der Server auf die Anfrage einen Http-Statuscode zurück. Dieser Statuscode enthält Informationen über den Status der Anfrage. 
 
 Folgende Statuscodes werden häufig angezeigt:
 
@@ -100,7 +97,7 @@ Ein Proxy ist eine Kommunikationsschnittstelle in einem Netzwerk. Er arbeitet al
 
 #####Client
 
-Ein Client bezeichnet ein Computerprogramm, das auf dem Endgerät eines Netzwerks ausgeführt wird und mit einem Zentralrechner Server kommuniziert. Man nennt auch ein Endgerät selbst, das Dienste von einem Server abruft, Client
+Ein Client bezeichnet ein Computerprogramm, das auf dem Endgerät eines Netzwerks ausgeführt wird und mit einem Zentralrechner Server kommuniziert. Man nennt auch ein Endgerät selbst, das Dienste von einem Server abruft, Client.
 
 #####Syntax
-Die Syntax einer Sprache (eines Zeichensystems) beschreibt die Regeln, nach denen die Sprachkonstrukte (Zeichen des Zeichensystems) gebildet werden
+Die Syntax einer Sprache (eines Zeichensystems) beschreibt die Regeln, nach denen die Sprachkonstrukte (Zeichen des Zeichensystems) gebildet werden.
